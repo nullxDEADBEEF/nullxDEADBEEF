@@ -1,5 +1,8 @@
 ### Hi there 👋
-<img src="https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif"/>
+<div>
+  <img src="https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif"/>
+  <img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374"/>
+ </div>
 <!--
 **nullxDEADBEEF/nullxDEADBEEF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
