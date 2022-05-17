@@ -1,9 +1,5 @@
 ### Hi there 👋
-<div>
-  <img src="https://c.tenor.com/w_5Q79dNCh8AAAAi/cat-vibe.gif"/>
-  <img src="https://emojis.slackmojis.com/emojis/images/1643515374/13924/blueblob_jump.gif?1643515374"/>
- </div>
- 
+
 I am currently studying for my bachelor's in software development.    
 When I am not studying, I like to explore new exciting technologies and work on my side-project [Streamchaser](https://streamchaser.tv/)
 
