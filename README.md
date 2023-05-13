@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-I am currently studying for my bachelor's in software development.    
-When I am not studying, I like to explore new exciting technologies and work on my side-project [Streamchaser](https://streamchaser.tv/)
+BA in Software Development.    
+In my spare time, I enjoy discovering innovative technologies and advancing my knowledge in the field. Additionally, I am currently developing a personal project [Streamchaser](https://streamchaser.tv/)
 
 ### Languages and Tools
 <div>
